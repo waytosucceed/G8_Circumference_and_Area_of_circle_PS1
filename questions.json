@@ -1,0 +1,156 @@
+{
+  "heading": "G8_Circumference of circle, semicircle and quarter circle",
+  "topics": [
+    {
+      "heading": "Circumference of circle, semicircle and quarter circle",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": ["Find the circumference of a circle with radius 7 cm."],
+    "options": [
+      { "text": "22 cm" },
+      { "text": "44 cm" },
+      { "text": "154 cm" },
+      { "text": "77 cm" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": ["Which of the following does <u>not</u> represent circumference?"],
+    "options": [
+      { "text": "πd" },
+      { "text": "2πr" },
+      { "text": "πr²" },
+      { "text": "Distance covered by a wheel in one round." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": ["A circle has a circumference 314 cm. Find its radius ( use π=3.14)."],
+    "options": [
+      { "text": "50 cm" },
+      { "text": "25 cm" },
+      { "text": "100 cm" },
+      { "text": "5 cm" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": ["If the circumference of a circle is 66 cm, find its diameter."],
+    "options": [
+      { "text": "7 cm" },
+      { "text": "28 cm" },
+      { "text": "21 cm" },
+      { "text": "14 cm" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": ["A wheel has a radius 35 cm. How far does it move in one revolution?"],
+    "options": [
+      { "text": "110 cm" },
+      { "text": "154 cm" },
+      { "text": "220 cm" },
+      { "text": "330 cm" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": ["If the circumference of a circle is 220 cm, what is its radius? (π=",{"fraction":{"numerator":"22","denominator":"7"}},")"],
+    "options": [
+      { "text": "14 cm" },
+      { "text": "70 cm" },
+      { "text": "17.5 cm" },
+      { "text": "35 cm" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 7,
+    "question": ["The circumference is:"],
+    "options": [
+      { "text": "220 m" },
+      { "text": "330 m" },
+      { "text": "440 m" },
+      { "text": "660 m" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 8,
+    "question": ["A wheel of diameter 49 cm makes 100 revolutions. Find the distance covered."],
+    "options": [
+      { "text": "490 m" },
+      { "text": "154 m" },
+      { "text": "1540 cm" },
+      { "text": "154 cm" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": ["The radius of a semicircle is 14 cm. Find its perimeter. (π=",{"fraction":{"numerator":"22","denominator":"7"}},"​)"],
+    "options": [
+      { "text": "22 cm" },
+      { "text": "29 cm" },
+      { "text": "72 cm" },
+      { "text": "44 cm" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 10,
+    "question": ["Find the perimeter of the following quarter circle. (π=",{"fraction":{"numerator":"22","denominator":"7"}},") <br> <img  width = '35%' src = './assests/images/question/3.png'><br>Perimeter = ______ cm"],
+    "input": [""],
+    "answer": ["25"]
+  },
+  {
+    "questionNo": 11,
+    "question": ["A semicircle has a perimeter 51.4 cm. Find its radius. (π=3.14)"],
+    "options": [
+      { "text": "9 cm" },
+      { "text": "10 cm" },
+      { "text": "11 cm" },
+      { "text": "12 cm" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": ["If the perimeter of following figure is 77.1 cm, then its radius is ______ cm : (π=3.14) <br> <img  width = '35%' src = './assests/images/question/4.png'>"],
+    "input": [""],
+    "answer": ["15"]
+  },
+  {
+    "questionNo": 13,
+    "question": ["The perimeter of the quarter circle is ______ cm.(π=",{"fraction":{"numerator":"22","denominator":"7"}},"​) <br> <img  width = '35%' src = './assests/images/question/5.png'>"],
+    "input": [""],
+    "answer": ["50"]
+  },
+  {
+    "questionNo": 14,
+    "question": ["A quarter circle has a perimeter of 71.4 cm. Then its radius is ______ cm. (π=3.14) <br> <img  width = '35%' src = './assests/images/question/6.png'>"],
+    "input": [""],
+    "answer": ["20"]
+  },
+  {
+    "questionNo": 15,
+    "question": ["The perimeter of a quarter circle with radius 14 cm, is ______ cm. (π=",{"fraction":{"numerator":"22","denominator":"7"}},"​) <br> <img  width = '35%' src = './assests/images/question/7.png'>"],
+    "input": [""],
+    "answer": ["50"]
+  }
+
+
+]
+
+    }
+  ]
+}
